@@ -4,7 +4,7 @@ import useFonts from '../hooks/useFonts';
 import GameHeader from '../components/GameHeader';
 import FeedbackModal from '../components/FeedbackModal';
 import { Ionicons } from '@expo/vector-icons';
-import { Audio } from 'expo-av';
+// import { Audio } from 'expo-av';
 import { musicManager } from '../app/_layout'; // Import the global music manager
 
 interface WordQuiz {
